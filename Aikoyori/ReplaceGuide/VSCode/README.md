@@ -10,7 +10,7 @@
 2. Add the following to your settings JSON file:
    ```json
    "vscode_custom_css.imports": [
-     "https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/ReplaceGuide/VSCode/style.css"
+     "https://raw.githubusercontent.com/K1000KN/ServicesLogo/master/Aikoyori/ReplaceGuide/VSCode/style.css"
    ]
    ```
 3. Run the following commands:
